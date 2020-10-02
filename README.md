@@ -2,14 +2,14 @@
 
 This is the website for the GSA Office of the Chief Technology Officer.
 
-## Architecture
+## ARCHITECTURE
 
 This is a [Jekyll-based](http://jekyllrb.com/) website designed to be published on the
 [Federalist](https://federalist.18f.gov/) platform.
 
 The website utilizes the [US Web Design Standards](https://standards.usa.gov/).
 
-## Setup
+## SETUP
 
 There are two ways you can set up your development environment:
 
